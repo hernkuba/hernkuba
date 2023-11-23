@@ -2,7 +2,7 @@
 - 👀 I’m interested in football, games and web developing!
 - 🌱 I’m currently learning React
 
-- 📫 How to reach me jakub.szewc62@gmail.com
+- 📫 How to reach me grindhard2023.business@gmail.com
 
 <!---
 hernkuba/hernkuba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
