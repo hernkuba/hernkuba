@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @hernkuba
-- 👀 I’m interested in football, games and web developing!
+- 👀 I’m interested in football, Heroes3 and web developing!
 - 🌱 I’m currently learning React
+- 💸 Trying to build own business!
 
 - 📫 How to reach me grindhard2023.business@gmail.com
 
